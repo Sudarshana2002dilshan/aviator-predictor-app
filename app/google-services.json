@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803287146382",
+    "project_id": "aviator-predictortool",
+    "storage_bucket": "aviator-predictortool.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803287146382:android:e96601f3cfd9c30e2b4edf",
+        "android_client_info": {
+          "package_name": "com.aistudio.aviatorpredictor.m8z2k"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zvHhj7oBOzVK2Q5c-WrSiSEAOxtCpUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

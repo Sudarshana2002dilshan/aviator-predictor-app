@@ -1,0 +1,6 @@
+{
+  "name": "Aviator Predictor Tool",
+  "description": "Aviator Signal Predictor Tool with betting site selection, admin user approval system, live multiplier calculations, cash-out tools, and admin management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
